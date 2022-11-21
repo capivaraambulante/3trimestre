@@ -7,7 +7,7 @@ header,footer{background-color:#499CBA;color:#CEEFFC;text-align:center;font-size
 main{background-color: #8DDEFC;}
 .primeiroparagrafo{text-align: justify;font-size:18px;border:black solid 2px;padding:10px;margin:10px}
 .segundoparagrafo{text-align: justify;font-size: 18px;border:black solid 2px;padding:10px;margin:10px;}
-#logotipo{width: 3%;height: 3%;}
+#logotipo{width: 5%;height: 3%;}
 #lista{display: inline-block;}
 nav a {color:antiquewhite}
 nav li{text-transform:uppercase;}
