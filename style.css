@@ -9,5 +9,6 @@ main{background-color: #8DDEFC;}
 .segundoparagrafo{text-align: justify;font-size: 18px;border:black solid 2px;padding:10px;margin:10px;}
 #tituloimagem{width: 5%;height: 5%;}
 #lista{display: inline-block;}
-nav a {}
-nav li{}
+nav a {color:antiquewhite}
+nav li{text-transform:uppercase;}
+#lista01{display: ;}
