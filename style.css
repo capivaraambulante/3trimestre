@@ -11,4 +11,4 @@ main{background-color: #8DDEFC;}
 #lista{display: inline-block;}
 nav a {color:antiquewhite}
 nav li{text-transform:uppercase;}
-#lista2{display:block;}
+#lista2 {display:inline-block;}
